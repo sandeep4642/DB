@@ -26,8 +26,8 @@
     </createTable>
   </changeSet>
  
-  <changeSet id="tag-1.0" author="sheng.w">
-    <tagDatabase tag="1.0" />
+  <changeSet id="${Tag_Name}" author="sheng.w">
+    <tagDatabase tag="${Tag_Name}" />
   </changeSet>
  
 </databaseChangeLog>
